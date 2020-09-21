@@ -1,0 +1,5 @@
+include ':sample-java-app'
+include ':LibPhotoPay'
+include ':blinkid-verify-lib'
+include ':sample-app'
+rootProject.name = "BlinkIDVerify"

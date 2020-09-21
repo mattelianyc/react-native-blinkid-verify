@@ -1,0 +1,85 @@
+/* MBVerifyContainerViewController */
+
+"mbidverify_verify_title" = "BlinkID Verify";
+"mbidverify_container_button_close" = "Close";
+
+/* MBVerifyWrapperViewController */
+
+"mbidverify_wrapper_label_description" = "Hi, let's verify your identity in\na few simple steps.";
+"mbidverify_wrapper_button_verify" = "Verify";
+
+/* MBResultView */
+
+"mbidverify_result_view_label_title_scan_id" = "Scan your photo ID";
+"mbidverify_result_view_label_subtitle_scan_id" = "Go grab one of your identity documents.";
+"mbidverify_result_view_label_start" = "Start";
+
+"mbidverify_result_view_label_title_id_scanned" = "Document scanned";
+"mbidverify_result_view_label_subtitle_id_scanned" = "Well done, moving on.";
+
+"mbidverify_result_view_label_title_liveness" = "Take a selfie";
+"mbidverify_result_view_label_subtitle_liveness" = "Ensure your face is well-lit.";
+
+"mbidverify_result_view_label_title_liveness_success" = "Selfie Confirmed";
+"mbidverify_result_view_label_subtitle_liveness_success" = "Looking great today.";
+
+/* MBCompleteVerificationViewController */
+ 
+"mbidverify_complete_verification_description_success" = "Dear %@,\n\nThank you for proving your\nidentity - it was you all along!";
+"mbidverify_complete_verification_description_failed" = "Sorry, we couldn’t verify\n your identity.";
+"mbidverify_complete_verification_start_again" = "Start Again";
+"mbidverify_complete_verification_done" = "Done";
+"mbidverify_complete_verification_description_failed_internet_connection" = "There was a problem with\nyour network. Check your\ndata or wifi connection.";
+"mbidverify_complete_verification_retry" = "Retry";
+
+/* ResultsViewController */
+
+"mbidverify_results_title_confirm" = "Confirm your data";
+
+"mbidverify_results_header_add_title" = "Please double-check and add the missing information.";
+"mbidverify_results_header_edit_title" = "Please double-check the information and edit if needed.";
+
+"mbidverify_results_edit_enter_placeholder" = "Enter";
+
+"mbidverify_results_error_alert_title" = "Something is wrong";
+"mbidverify_results_error_alert_message" = "Please fill in the field correctly.";
+"mbidverify_results_error_alert_empty_required_title" = "Something is missing";
+"mbidverify_results_error_alert_empty_required_message" = "Please fill in the required fields.";
+"mbidverify_results_error_alert_button" = "OK";
+
+"mbidverify_results_keyboard_done_button" = "Done";
+
+/* MBBlinkIDVerifyResult MBBlinkIdCombinedRecognizerResult */
+
+"mbidverify_result_item_title_firstName" = "First Name";
+"mbidverify_result_item_title_lastName" = "Last Name";
+"mbidverify_result_item_title_fullName" = "Full Name";
+"mbidverify_result_item_title_dateOfBirth" = "Date of Birth";
+"mbidverify_result_item_title_dateOfIssue" = "Date of Issue";
+"mbidverify_result_item_title_documentNumber" = "Document Number";
+"mbidverify_result_item_title_address" = "Address";
+"mbidverify_result_item_title_sex" = "Sex";
+"mbidverify_result_item_title_issuingAuthority" = "Issuing Authority";
+"mbidverify_result_item_title_dateOfExpiry" = "Date of Expiry";
+"mbidverify_result_item_title_localizedName" = "Localized Name";
+"mbidverify_result_item_title_additionalNameInformation" = "Additional Name Information";
+"mbidverify_result_item_title_additionalAddressInformation" = "Additional Address Information";
+"mbidverify_result_item_title_placeOfBirth" = "Place of Birth";
+"mbidverify_result_item_title_nationality" = "Nationality";
+"mbidverify_result_item_title_race" = "Race";
+"mbidverify_result_item_title_religion" = "Religion";
+"mbidverify_result_item_title_profession" = "Profession";
+"mbidverify_result_item_title_maritalStatus" = "Marital Status";
+"mbidverify_result_item_title_residentialStatus" = "Residential Status";
+"mbidverify_result_item_title_employer" = "Employer";
+"mbidverify_result_item_title_personalIdNumber" = "Personal ID Number";
+"mbidverify_result_item_title_documentAdditionalNumber" = "Document Additional Number";
+
+"mbidverify_result_item_value_permanent" = "Permanent";
+
+"mbidverify_results_textfield_placeholder" = "REQUIRED";
+
+/* MBBlinkIDVerifyResult Button */
+
+"mbidverify_results_confirm" = "Confirm";
+"mbidverify_results_scan_again" = "Scan again";

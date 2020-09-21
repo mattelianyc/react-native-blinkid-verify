@@ -1,0 +1,12 @@
+$dokka.format:html
+$dokka.linkExtension:html
+
+com.microblink.blinkid.verify
+com.microblink.blinkid.verify.manager.config.api
+com.microblink.blinkid.verify.manager.config.api.filter
+com.microblink.blinkid.verify.manager.config.api.strings
+com.microblink.blinkid.verify.result.api
+com.microblink.blinkid.verify.result.api.config.fields
+com.microblink.blinkid.verify.result.api.config.fields.validation
+com.microblink.blinkid.verify.util
+

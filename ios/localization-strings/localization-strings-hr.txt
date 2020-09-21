@@ -1,0 +1,85 @@
+/* MBVerifyContainerViewController */
+
+"mbidverify_verify_title" = "BlinkID Verify";
+"mbidverify_container_button_close" = "Zatvori";
+
+/* MBVerifyWrapperViewController */
+
+"mbidverify_wrapper_label_description" = "Potvrdimo tvoj identitet\nu par jednostavnih koraka.";
+"mbidverify_wrapper_button_verify" = "Potvrdi";
+
+/* MBResultView */
+
+"mbidverify_result_view_label_title_scan_id" = "Skeniraj dokument";
+"mbidverify_result_view_label_subtitle_scan_id" = "Pripremi osobnu iskaznicu, vozačku ili putovnicu.";
+"mbidverify_result_view_label_start" = "Kreni";
+
+"mbidverify_result_view_label_title_id_scanned" = "Dokument skeniran";
+"mbidverify_result_view_label_subtitle_id_scanned" = "Bravo, možemo nastaviti.";
+
+"mbidverify_result_view_label_title_liveness" = "Slikaj selfie";
+"mbidverify_result_view_label_subtitle_liveness" = "U osvijetljenom prostoru.";
+
+"mbidverify_result_view_label_title_liveness_success" = "Selfie prihvaćen";
+"mbidverify_result_view_label_subtitle_liveness_success" = "Izgledaš super.";
+
+/* MBCompleteVerificationViewController */
+
+"mbidverify_complete_verification_description_success" = "%@,\n\nto si zaista ti!\nTvoj identitet je potvrđen.";
+"mbidverify_complete_verification_description_failed" = "Žao nam je, nismo uspjeli potvrditi\ntvoj identitet.";
+"mbidverify_complete_verification_start_again" = "Kreni ispočetka";
+"mbidverify_complete_verification_done" = "Završi";
+"mbidverify_complete_verification_description_failed_internet_connection" = "Došlo je do problema s vašom mrežom. Podatkovna ili WiFi veza nije dostupna.";
+"mbidverify_complete_verification_retry" = "Ponovi";
+
+/* ResultsViewController */
+
+"mbidverify_results_title_confirm" = "Provjeri svoje podatke";
+
+"mbidverify_results_header_add_title" = "Molimo, unesite dodatne informacije.";
+"mbidverify_results_header_edit_title" = "Provjeri podatke i izmijeni ih po potrebi.";
+
+"mbidverify_results_edit_enter_placeholder" = "Unesi";
+
+"mbidverify_results_error_alert_title" = "Nešto nedostaje";
+"mbidverify_results_error_alert_message" = "Molimo, popunite obavezna polja.";
+"mbidverify_results_error_alert_empty_required_title" = "Nešto nedostaje";
+"mbidverify_results_error_alert_empty_required_message" = "Molimo, popunite obavezna polja.";
+"mbidverify_results_error_alert_button" = "OK";
+
+"mbidverify_results_keyboard_done_button" = "Završi";
+
+/* MBBlinkIDVerifyResult MBBlinkIdCombinedRecognizerResult */
+
+"mbidverify_result_item_title_firstName" = "Ime";
+"mbidverify_result_item_title_lastName" = "Prezime";
+"mbidverify_result_item_title_fullName" = "Puno ime i prezime";
+"mbidverify_result_item_title_dateOfBirth" = "Datum rođenja";
+"mbidverify_result_item_title_dateOfIssue" = "Datum izdavanja";
+"mbidverify_result_item_title_documentNumber" = "Broj dokumenta";
+"mbidverify_result_item_title_address" = "Adresa";
+"mbidverify_result_item_title_sex" = "Spol";
+"mbidverify_result_item_title_issuingAuthority" = "Izdavatelj";
+"mbidverify_result_item_title_dateOfExpiry" = "Datum isteka";
+"mbidverify_result_item_title_localizedName" = "Lokalizirano ime";
+"mbidverify_result_item_title_additionalNameInformation" = "Dodatne informacije - ime";
+"mbidverify_result_item_title_additionalAddressInformation" = "Dodatne informacije - adresa";
+"mbidverify_result_item_title_placeOfBirth" = "Mjesto rođenja";
+"mbidverify_result_item_title_nationality" = "Nacionalna pripadnost";
+"mbidverify_result_item_title_race" = "Rasna pripadnost";
+"mbidverify_result_item_title_religion" = "Religiozna pripadnost";
+"mbidverify_result_item_title_profession" = "Profesija";
+"mbidverify_result_item_title_maritalStatus" = "Bračni status";
+"mbidverify_result_item_title_residentialStatus" = "Stambeni status";
+"mbidverify_result_item_title_employer" = "Poslodavac";
+"mbidverify_result_item_title_personalIdNumber" = "Osobni identifikacijski broj";
+"mbidverify_result_item_title_documentAdditionalNumber" = "Dodatni broj dokumenta";
+
+"mbidverify_result_item_value_permanent" = "Trajno";
+
+"mbidverify_results_textfield_placeholder" = "Obavezno";
+
+/* MBBlinkIDVerifyResult Button */
+
+"mbidverify_results_confirm" = "Potvrdi";
+"mbidverify_results_scan_again" = "Skeniraj ponovno";

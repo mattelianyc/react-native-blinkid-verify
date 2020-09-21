@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlinkIDVerify</string>
+
+    <string name="action_start_verification">Start</string>
+</resources>
